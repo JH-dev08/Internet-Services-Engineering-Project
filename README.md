@@ -1,2 +1,2 @@
 # Internet-Services-Engineering-Project
-Proyecto Final de Ingeniería de Servicios de Internet con la Docente Taidy Martínez para el periodo 2026-2. Realizado por: Camilo Maestre y José Herrera
+Proyecto Final de Ingeniería de Servicios de Internet con la Docente Taidy Martínez para el periodo 2026-2, Universidad de Cartagena. Realizado por: Camilo Maestre y José Herrera
